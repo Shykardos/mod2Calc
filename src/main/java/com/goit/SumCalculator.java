@@ -14,7 +14,6 @@ public class SumCalculator {
     }
 
     public static void main(String[] args) {
-
     }
 }
 

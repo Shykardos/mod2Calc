@@ -20,7 +20,6 @@ class SumCalculatorTest {
         int value = 1;
         int actual = sumCalculator.sum(1);
         assertEquals(value, actual);
-        System.out.println(actual);
     }
 
     @Test
